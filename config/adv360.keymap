@@ -31,7 +31,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "DELETETD";
             #binding-cells = <0>;
-            bindings = <&lt 3 BACKSPACE>, <&kp LC(BACKSPACE)>;
+            bindings = <&lt 3 BACKSPACE>, <&kp LA(BACKSPACE)>;
         };
     };
 
