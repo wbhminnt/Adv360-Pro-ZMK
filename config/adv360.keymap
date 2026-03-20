@@ -97,7 +97,7 @@
         };
 
         symbol {
-            display-name = "Fn";
+            display-name = "Symbol";
             bindings = <
 &triple_backtick  &kp GRAVE         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMI           &kp COMMA  &trans                                                         &trans  &trans     &trans            &trans             &trans        &trans            &trans
 &kp EXCL          &kp LEFT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp RIGHT_BRACKET  &kp QMARK  &trans                                                         &trans  &kp DOT    &kp DELETE        &kp LS(TAB)        &kp INSERT    &kp ESCAPE        &trans
